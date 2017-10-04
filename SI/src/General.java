@@ -66,12 +66,13 @@ public class General {
 
 				System.out.print((s[x][y]) + " ");
 			}
+			
 			System.out.println();
+			
 		}
-
+		
 	}
-	//hola
-	
+
 
 	
 }
